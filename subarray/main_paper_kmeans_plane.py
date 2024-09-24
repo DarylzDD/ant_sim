@@ -13,7 +13,7 @@ from cluster_kmeans.cluster_kmeans_jaccard import calc_jaccard_mean
 from read_fBest_mat_plane import get_spare_weight
 from chebyshev.arr_chebyshev_plane import compute_array_pattern
 
-from util.util_beam_scaning import get_peaks
+from util.util_analysis_plane import get_peaks
 
 from subarray.SubarrayClusterKMeans import SubarrayClusterKMeans
 

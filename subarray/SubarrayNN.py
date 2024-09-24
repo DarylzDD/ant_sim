@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 from ArrayChebyshev import ArrayChebyshev
-from util.util_msll_line import msll_line
+from util.util_analysis_line import msll_line
 
 def save_csv(data, file_path):
     # 指定CSV文件路径
